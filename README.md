@@ -11,3 +11,5 @@ The plateform used is pygame and I run the all thing with textedit and the termi
 [Source Code](https://github.com/410192/Computer-Programming-Individual-Project/tree/main/SRC#:~:text=last%20week-,main.py,-Add%20files%20via)
 ### Startscreen
 ![Startscreen](https://github.com/410192/Computer-Programming-Individual-Project/blob/main/IMG/Src-Startsreen.png?raw=true)
+### Gameplay
+![Gameplay]()
