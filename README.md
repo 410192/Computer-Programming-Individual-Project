@@ -12,4 +12,4 @@ The plateform used is pygame and I run the all thing with textedit and the termi
 ### Startscreen
 ![Startscreen](https://github.com/410192/Computer-Programming-Individual-Project/blob/main/IMG/Src-Startsreen.png?raw=true)
 ### Gameplay
-![Gameplay](https://github.com/410192/Computer-Programming-Individual-Project/blob/main/IMG/Src2.png?raw=true)
+![Gameplay](https://github.com/410192/Computer-Programming-Individual-Project/blob/main/IMG/Img4.png?raw=true)
